@@ -119,32 +119,18 @@ JeeSite 提供了常用工具进行封装，包括日志工具、缓存工具、
 
 ## 更多文档
 
-* <https://github.com/thinkgem/jeesite/tree/master/doc>
+* <https://github.com/yuyong504/lol_jeestie/tree/master/doc>
 
 ## 如何交流、反馈、参与贡献？
 
-* QQ Group：127515876 &nbsp; 209330483 &nbsp; 223507718 &nbsp; 苹果版QQ若不能加入请使用手机QQ最新版
-* E-mail：thinkgem@163.com
-* GitHub：<https://github.com/thinkgem/jeesite>
-* 开源中国：<http://git.oschina.net/thinkgem/jeesite>
-* 官方网址：<http://jeesite.com>  论坛：<http://bbs.jeesite.com>
-* 支持JeeSite发展：（加我好友）支付宝：thinkgem@163.com &nbsp; 微信：thinkgem
+* E-mail：504332924@qq.com
+* GitHub：<https://github.com/yuyong504/lol_jeestie.git>
 
 一个人的个人能力再强，也无法战胜一个团队，希望兄弟姐妹的支持，能够贡献出自己的部分代码，参与进来共同完善它(^_^)。
 
 怎么共享我的代码：[手把手教你如何加入到github的开源世界！](http://www.cnblogs.com/wenber/p/3630921.html)
 
-## 版权声明
 
-本软件使用 [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0) 协议，请严格遵照协议内容：
-
-1. 需要给代码的用户一份Apache Licence。
-2. 如果你修改了代码，需要在被修改的文件中说明。
-3. **在延伸的代码中（修改和有源代码衍生的代码中）需要带有原来代码中的协议，商标，专利声明和其他原来作者规定需要包含的说明。**
-4. 如果再发布的产品中包含一个Notice文件，则在Notice文件中需要带有Apache Licence。你可以在Notice中增加自己的许可，但不可以表现为对Apache Licence构成更改。
-5. Apache Licence也是对商业应用友好的许可。使用者也可以在需要的时候修改代码来满足需要并作为开源或商业产品发布/销售
-6. 你可以二次包装出售，**但还请保留文件中的版权和作者信息**，并在你的产品说明中注明JeeSite。
-7. 你可以以任何方式获得，你可以修改包名或类名，**但还请保留文件中的版权和作者信息**。
 
 ##为何使用MyBatis
 
@@ -161,6 +147,5 @@ Hibernate性能上定不是问题。但对于大多数情况下，真正掌握Hi
 数据库的支持，但对于支持其它数据库的改动也不是很麻烦，SQL是被专门写在XML中，对于大多数SQL来说都是通用的，
 对于不同的数据库可通过dbName区分和修改各别的SQL片段即可。
 
-上述纯属个人观点，欢迎指正（thinkgem@163.com）。
+上述纯属个人观点，欢迎指正（504332924@qq.com）。
 
-如果你仍然喜欢Hibernate，请点击[下载JeeSite Hibernate版本](https://github.com/thinkgem/jeesite/tree/master_hibernate)。
